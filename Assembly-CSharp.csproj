@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\BallSpawn.cs" />
     <Compile Include="Assets\Scripts\Bumper.cs" />
     <Compile Include="Assets\Scripts\Flipper.cs" />
+    <Compile Include="Assets\Scripts\OpenResults.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
     <Reference Include="UnityEditor.StandardEvents">
