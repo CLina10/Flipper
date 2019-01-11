@@ -64,6 +64,10 @@
     <Compile Include="Assets\Scripts\BallSpawn.cs" />
     <Compile Include="Assets\Scripts\Bumper.cs" />
     <Compile Include="Assets\Scripts\Flipper.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\LevelManager.cs" />
+    <Compile Include="Assets\Scripts\MenuEvents.cs" />
+    <Compile Include="Assets\Scripts\MenuManager.cs" />
     <Compile Include="Assets\Scripts\OpenResults.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
